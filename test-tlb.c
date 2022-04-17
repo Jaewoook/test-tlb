@@ -16,7 +16,7 @@
 
 #define PAGE_SIZE 4096
 
-#define FREQ 3.9
+#define FREQ 2.3
 
 static int test_hugepage = 0;
 static int random_list = 0;

@@ -280,7 +280,7 @@ int main(int argc, char **argv)
 			cycles = d;
 	}
 
-	printf("%6.2fns (~%.1f cycles)\n",
+	printf("%6.2f,ns (~%.1f cycles)\n",
 		cycles, cycles*FREQ);
 	return 0;
 }
